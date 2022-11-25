@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=TikTakToeException
+comment0.text=\r\n\ A\ program-specific\ exception\ for\ tiktaktoe\ for\ Homework\ 01\ &\ 02.\r\n\ \r\n\ @author\ Dr\ Mark\ C.\ Sinclair\r\n\ @version\ October\ 2020\r\n
+comment1.params=
+comment1.target=TikTakToeException()
+comment1.text=\r\n\ Default\ constructor\r\n
+comment2.params=message
+comment2.target=TikTakToeException(java.lang.String)
+comment2.text=\r\n\ Constructor\ with\ a\ message\r\n\ \r\n\ @param\ message\ the\ message\r\n
+numComments=3
